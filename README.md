@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kadirvs
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning HTML,Python and C++
+- 🌱 I’m currently learning HTML,CSS,Python and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Kadirkorak11@gmail.com
 - 😄 Pronouns: ...
